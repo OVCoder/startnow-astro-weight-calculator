@@ -10,9 +10,7 @@ Walkthrough
 
 
 1. Open up a terminal
-
 2. Open the project folder in VS Code using the following command: `code ~/oca/startnow-astro-weight-calculator`
-
 3. Run: `npm install`.
 4. Run: `static .`
 5. In the window that got open in a browser enter weight of equipment in pounds, then select
